@@ -58,8 +58,7 @@ MAE (Mean Absolute Error)
  How to Run the Project
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/real-estate-price-prediction.git
-cd real-estate-price-prediction
+git clone https://github.com/mdasad7372/The-Developer-Arena/blob/main/Bengaluru_Housing_Price_Prediction.ipynb
 2️⃣ Install dependencies
 bash
 Copy
