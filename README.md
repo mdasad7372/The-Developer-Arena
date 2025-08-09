@@ -54,3 +54,33 @@ Model Evaluation..
 RMSE (Root Mean Squared Error)
 
 MAE (Mean Absolute Error)
+
+ How to Run the Project
+1️⃣ Clone the repository
+
+git clone https://github.com/yourusername/real-estate-price-prediction.git
+cd real-estate-price-prediction
+2️⃣ Install dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Run the script
+bash
+Copy
+Edit
+python real_estate_prediction.py
+📈 Example Output
+
+RMSE: 51234.56
+MAE: 41200.78
+Predicted price for sample property: ₹ 85,00,000
+📌 Future Improvements
+Use Random Forest / XGBoost for better accuracy
+
+Deploy model as a Flask API or Streamlit app
+
+Integrate real-time property listing data
+
+📜 License
+This project is licensed under the MIT License.
